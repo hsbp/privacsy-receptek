@@ -1,0 +1,13 @@
+rizsfőzes:
+ - 2x víz kell mint rizs.
+ - ha lemosod, akkor így különálló szemek lesznek, ha nem, akkor inkább összeáll.
+ - ha olívát tolsz bele akkor nem kell mosni, és ilyen szétomlós lesz a rizs
+ - megsózod,
+ - max 20percig főzöd legkisebb lángon.
+ - nem veszed le a fedőt
+   van aki csak 15 percig főzi, eé 10 percig hagyja állni. van aki 20-5 aranyban tolja.
+
+három paraméter befolyásolja a főzési időt:
+  - légnyomás
+  - gázláng méret
+  - a rizs típusa (mert barna vagy vadrizst ha 20 percig főzöd akkor nem igazán ehető meg)
