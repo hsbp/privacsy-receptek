@@ -5,7 +5,7 @@ rizsfőzes:
  - megsózod,
  - max 20percig főzöd legkisebb lángon.
  - nem veszed le a fedőt
-   van aki csak 15 percig főzi, eé 10 percig hagyja állni. van aki 20-5 aranyban tolja.
+   van aki csak 15 percig főzi, és 10 percig hagyja állni. van aki 20-5 arányban tolja.
 
 három paraméter befolyásolja a főzési időt:
   - légnyomás
